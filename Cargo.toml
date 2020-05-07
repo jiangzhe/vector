@@ -402,6 +402,7 @@ kafka-integration-tests = ["sinks-kafka"]
 loki-integration-tests = ["sinks-loki"]
 pulsar-integration-tests = ["sinks-pulsar"]
 splunk-integration-tests = ["sinks-splunk_hec", "warp"]
+kubernetes-integration-tests = []
 
 disable-resolv-conf = []
 
